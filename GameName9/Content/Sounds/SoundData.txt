@@ -1,0 +1,9 @@
+﻿Player
+.1,0,AttackSound
+1,0,Bew
+Level
+1.08,1,VampireKiller
+1.08,1,Cellar
+1.08,1,Beginning
+Menu
+20,1,BlackVortex.wav

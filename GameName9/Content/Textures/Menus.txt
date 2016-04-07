@@ -1,0 +1,14 @@
+﻿StartMenu,2
+StartButton,400,450
+ControlsButton,400,600
+ControlsMenu,1
+MainMenuButton,400,850
+GameOverMenu,1
+MainMenuButton,400,550
+LevelUpMenu,4
+PlusButton,60,300
+PlusButton,60,450
+PlusButton,60,600
+PlusButton,60,750
+ReadyGoMenu,0
+YouWinMenu,0

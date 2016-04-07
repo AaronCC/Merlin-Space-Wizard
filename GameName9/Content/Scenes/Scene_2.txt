@@ -1,0 +1,6 @@
+﻿Merlin,SirPercival
+Greetings, Sir Percival.
+Good to see you alive Merlin. Is there no end to Morgana's evil horde?
+It does seem hopeless and I am weary, but we must go on.
+And go on we will. I found this strange scroll on the corpse of one of my foes, perhaps you can use it.-<Recieved Item: ManaBall Scroll>
+Many thanks Sir Percival.

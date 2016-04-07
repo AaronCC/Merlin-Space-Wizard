@@ -1,0 +1,110 @@
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\BlankSquare.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Block.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\OccupiedSquare.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\GameName9.exe
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\GameName9.pdb
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\obj\x86\Debug\GameName9.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\obj\x86\Debug\GameName9.exe
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\obj\x86\Debug\GameName9.pdb
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\StartButton.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\StartMenu.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_0.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PlayerProjectile.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PermaBackground.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Shadow.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Enemy.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\EnemyProjectile.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\ControlsButton.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\ControlsMenu.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\MainMenuButton.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\KingArthurPortrait.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\MerlinPortrait.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\SceneOverlay.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet1.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PlayerSpriteSheet1.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_1.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\FireballProjectile.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\SirLancelotPortrait.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\GameOverMenu.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\MyFont.xnb
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\HealthOrb.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\ManaOrb.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\AbilityOrb.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_2.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_3.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet2.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet4.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet3.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\ManaBall.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\SirPercivalPortrait.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\LevelUpMenu.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\PlusButton.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\ReadyGoMenu.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\AttackSound.wav
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\VampireKiller.wav
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Cellar.wav
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Beginning.wav
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\TreasuryRoom.wav
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\LevelUpButton.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\Bew.wav
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\YouWinMenu.png
+C:\Users\Aaron\Desktop\CS Projects\GameName9\GameName9\bin\WindowsGL\Debug\Content\BlackVortex.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\obj\x86\Debug\GameName9.exe
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\obj\x86\Debug\GameName9.pdb
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\obj\x86\Debug\GameName9.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\AttackSound.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\AbilityOrb.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_2.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_3.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_1.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Background_0.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Beginning.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Bew.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\BlackVortex.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\BlankSquare.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Block.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Cellar.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\ControlsButton.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\ControlsMenu.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Enemy.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\EnemyProjectile.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\FireballProjectile.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\GameOverMenu.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\HealthOrb.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\KingArthurPortrait.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\LevelUpButton.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\LevelUpMenu.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\MainMenuButton.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\ManaBall.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\ManaOrb.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\OccupiedSquare.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PermaBackground.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\MerlinPortrait.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PlayerProjectile.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PlayerSpriteSheet1.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PlusButton.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet2.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet4.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet3.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\PortalSpriteSheet1.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\ReadyGoMenu.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\SceneOverlay.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\Shadow.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\SirLancelotPortrait.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\SirPercivalPortrait.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\StartButton.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\StartMenu.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\TreasuryRoom.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\VampireKiller.wav
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\YouWinMenu.png
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Content\MyFont.xnb
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\GameName9.exe
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\GameName9.pdb
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Documents\GitHub\GameName9\GameName9\bin\WindowsGL\Debug\Tao.Sdl.dll
